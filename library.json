@@ -1,0 +1,16 @@
+{
+  "name": "Stepper28byj48",
+  "keywords": "stepper, signal, ouput, steps, degrees",
+  "description": "Arduino library for the Stepper28byj48",
+  "repository": {
+    "type": "git",
+    "url": "https://gits-15.sys.kth.se/albinwi/Stepper28byj-48"
+  },
+  "version": "1.0",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}

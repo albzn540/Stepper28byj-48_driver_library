@@ -1,0 +1,5 @@
+Stepper28byj48    KEYWORD1
+setDirection      KEYWORD2
+stepper           KEYWORD2
+turnClockwise     KEYWORD2
+turnAntiClockwise KEYWORD2
